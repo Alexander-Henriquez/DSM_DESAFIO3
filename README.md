@@ -5,6 +5,9 @@
 
 Recursos App es una aplicación diseñada para gestionar y organizar recursos de manera eficiente. La aplicación permite a los usuarios agregar, editar y eliminar recursos.
 
+## Video del Proyecto
+## https://drive.google.com/file/d/1Mu5NiFQyJZ7UtJPvmG7EFa-SOZWxM-PN/view?usp=sharing
+
 ## Características
 
 - **Agregar Recurso:** Permite a los usuarios añadir nuevos recursos a la lista.
