@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ResourcesApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Personaliza los colores de tu tema aquí -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryDarkColor</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="colorSecondaryVariant">@color/secondaryVariantColor</item>
+        <item name="colorOnSecondary">@color/onSecondary</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorSurface">@color/surfaceColor</item>
+        <item name="colorError">@color/errorColor</item>
+        <item name="colorOnError">@color/onErrorColor</item>
+        <item name="colorOnBackground">@color/onBackgroundColor</item>
+
+        <!-- Estilo para botón elevado -->
+        <item name="buttonStyle">@style/Widget.MaterialComponents.Button</item>
+    </style>
+
+</resources>
